@@ -18,9 +18,6 @@ While many of my original projects are private, here are some public forks I’v
 - 🔹 [**Launcher**](https://github.com/BloodRaid/Launcher)  
   A custom Minecraft modpack launcher forked from SKCraft. Tweaked for internal mod distribution and ease of use.
 
-- 🔹 [**lightfall**](https://github.com/BloodRaid/lightfall)  
-  A Waterfall fork with modern Forge support. Used to improve modded server compatibility and performance.
-
 ---
 ## 📊 GitHub Stats
 [![wakatime](https://wakatime.com/badge/user/018ec247-7111-4eca-95c9-4ea4a4050f0c.svg)](https://wakatime.com/@018ec247-7111-4eca-95c9-4ea4a4050f0c)
